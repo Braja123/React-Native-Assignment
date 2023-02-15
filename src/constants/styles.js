@@ -1,0 +1,15 @@
+export const Colors = {
+  primary100: "#baf3ee",
+  primary500: "#025f64",
+  primary800: "#022e30",
+  primary50: "#e4d9fd",
+  error100: "#ffb3b3bf",
+  error500: "#ff0000bf",
+  primary200: "#a281f0",
+  primary400: "#5721d4",
+  primary700: "#2d0689",
+  accent500: "#f7bc0c",
+  error50: "#fcc4e4",
+  gray500: "white",
+  gray700: "white",
+};
